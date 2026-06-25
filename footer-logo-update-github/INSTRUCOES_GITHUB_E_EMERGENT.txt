@@ -1,0 +1,10 @@
+COMO USAR NO GITHUB / VERCEL
+
+1. Suba esta pasta inteira para um repositorio.
+2. Na Vercel, use Framework preset: Vite.
+3. Build command: npm run build
+4. Output directory: dist
+
+COMO USAR NO EMERGENT
+
+Envie o ZIP inteiro e peca para carregar o projeto Vite/React existente.
