@@ -1,8 +1,9 @@
 {
   "redirects": [
-    { "source": "/sobre-nos", "destination": "/#sobre", "permanent": true },
     { "source": "/contato", "destination": "/#contato", "permanent": true },
-    { "source": "/servicos", "destination": "/#servicos", "permanent": true },
-    { "source": "/depoimentos", "destination": "/#depoimentos", "permanent": true }
+    { "source": "/nossos-servicos", "destination": "/#servicos", "permanent": true },
+    { "source": "/sobre-nos", "destination": "/#sobre", "permanent": true },
+    { "source": "/depoimentos-de-clientes", "destination": "/#depoimentos", "permanent": true },
+    { "source": "/contrato-com-empresas", "destination": "/#contato", "permanent": true }
   ]
 }
